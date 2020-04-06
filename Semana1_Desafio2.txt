@@ -1,0 +1,23 @@
+QRE1113 Fairchild
+
+Temepratura de Operação: -25 até 85 ºC
+
+Potênica Dissipada no Sensor: 50 mW
+
+Corrente no Coletor: 20 mA
+
+Tensão Máxima de Entrada: 1.6 V
+
+Dimensões:
+
+Altura - (1,60)/(1,40) mm ~= 1,14 mm
+Largura - (4.90)/(4.50) mm ~= 1.09 mm
+Comprimento - (3.30)/(3.10) mm ~= 1.06 mm
+
+Corrente Normalizada no Coletor quando a distância
+entre o sensor e o objeto é 3mm :
+
+Entre 0.2 e 0.22 C(ON)
+
+
+
