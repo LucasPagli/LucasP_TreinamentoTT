@@ -1,0 +1,28 @@
+Atuadores:
+Um atuador é um componente de uma máquina responsável por mover e
+controlar um mecanismo ou sistema, por exemplo, abrindo uma válvula.
+Um atuador requer um sinal de controle e uma fonte de energia. O sinal de controle
+tem relativamente baixa energia e pode ser tensão ou corrente elétrica, pneumática
+ou pressão hidráulica. Sua principal fonte de energia pode ser uma
+corrente elétrica, pressão do fluido hidráulico ou pressão pneumática.
+Quando recebe um sinal de controle, um atuador responde convertendo
+a energia da fonte em movimento mecânico.
+
+X-Series Actuators:
+
+Os atuadores da série X da HEBI Robotics permitem que engenheiros, criem rápido e facilmente robôs 
+personalizados de classe mundial, de qualquer configuração. Esses atuadores 
+de nível profissional são embalados com sensores que permitem o controle 
+simultâneo de posição, velocidade e torque, além de medição inercial de três eixos.
+
+Cada módulo é um atuador elástico em série que integra um motor sem escova, 
+trem de engrenagens, mola, codificadores e eletrônica de controle em um pacote 
+compacto que roda entre 18V a 48V DC e se comunica usando a Ethernet 10 / 100Mbps padrão.
+
+O atuador da série X foi projetado para funcionar como um componente robótico 
+completo, em oposição a um servo motor simples. A saída gira continuamente, 
+não requer calibração ou retorno na inicialização e contém um furo passante 
+para facilitar o encadeamento e a fiação. Os módulos podem ser usados ​​em tudo, 
+desde robôs com rodas a braços robóticos colaborativos com vários graus de liberdade.
+
+(Não achei outro tipo de atuador pra uma categoria nossa, então foi um bagulho monstro desse mesmo)
