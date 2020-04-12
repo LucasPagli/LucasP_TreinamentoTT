@@ -1,0 +1,24 @@
+O que é um Protoboard?:
+
+A Protoboard, também conhecida como placa de ensaio ou matriz de contato é 
+uma placa que permite a montagem e teste de circuitos elétricos. 
+Com isso, é possível montar um circuito que não conhecemos muito bem seu 
+comportamento e efetuar diversos testes, tendo a liberdade de substituir os 
+componentes da forma que desejar e só soldar o circuito em uma placa 
+definitiva quando tudo estiver testado e funcionando perfeitamente.
+Muito eficiente para testes e aprendizagem.
+
+Como funciona a protoboard?
+A Protoboard possui trilhas horizontais e verticais, em que há conexão 
+entre todos os furos dessas trilhas.
+As trilhas mais compridas, nas partes verticais da placa,são usadas para 
+colocar as fontes de alimentação do circuito. Já as trilhas mais curtas, no 
+horizonatal da placa, são usadas para montar os circuitos. 
+No centro há uma canaleta com o espaço para colocação de circuitos integrados.
+
+Faixas de terminais
+As trilhas utilizadas para componentes eletrônicos tem suas colunas marcadas 
+com letras A, B, C, D, etc e linhas enumeradas. A canaleta central, serve também 
+como uma circulação de ar para promover a dissipação de calor em circuitos 
+integrados colocados no centro da placa. Há contato elétrico entre as linhas, 
+normalmente possuindo 5 ou 6 furos em cada.
