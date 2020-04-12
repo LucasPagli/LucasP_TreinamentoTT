@@ -1,0 +1,56 @@
+Datasheet TMP36
+
+Tipo de comoponente:
+Sensor de temperatura de baixa voltagem
+
+Finalidade e aplicações:
+Funcionam como Proteção termal, Sistemas de controle do ambiente,
+Controle de processo Industrial, Alarme de incêndio, 
+Monitores do sistema de energia, Gerenciamento térmico da CPU.
+
+Funcionamento do componente:
+Os TMP36 é um sensor preciso de temperatura centigrada, e
+é de baixa voltagem. Não requer nenhum tipo calibração externa para melhorar
+sua precisão.
+Os 3 modelos(TMP35/36/37) são feitos com o intuíto de funcionarem com 
+operação de fornecimento único de 2.7V até 5.5V. Além disso, a baixa impedância
+de saída, lineardade da saída e calibre preciso simplificam a interface para os
+circuitos de controle e ADCs. Também contendo um fornecimento de corrente que funciona 
+bem abaixo de 50µA, assim provendo auto-aquecimento muito baixo. E caso algo de 
+errado, ele contém uma função de desligamento que corta o suprimento de corrente 
+para menos de 0.5µA.
+O TMP36 é especificado de -40ºC até +125ºC, provendo uma saída de 750mV a 25ºC,
+e operando a 125ºC com fornecimento único de 2.7V. Tendo compatibilidade com o 
+componente LM50.
+
+Fator de escala: 10mV/ºC
+É uma escala da média de mV necessário para cada ºC, por exemplo, se o
+TMP36 tem uma saída de 45ºC então ele está tendo fornecimento de 950mV.
+
+(Uma tabela pra exemplificar o pensamento)
+40ºC - 900mV
+30ºC - 800mV
+20ºC - 700mV
+10ºC - 600mV
+0ºC - 500mV
+-10ºC - 400mV
+-20ºC - 300mV
+-30ºC - 200mV
+-40ºC - 100mV
+
+Precisão: É o parâmetro de valores como o fator de escala citado 
+anteriormente, que funciona entre -40ºC e 125ºC com uma média de 10mV por ºC. 
+Tendo uma escala assim, o sensor pode ter mais precisão para a funcionalidade 
+necessária. A precisão tem um erro que pode variar de 1ºC ou 0.5ºC a mais ou menos.
+
+Temperatura Operacional: A temperatura operacional é de -40ºC até 125ºC, ou
+2.7V até 5.5V, sendo esses valores as limitações nas quais o comoponente pode ser
+funcional, nem menor ou maior mas entre esse parâmetro.
+
+Linearidade: 0.5ºC
+Fator de linearidade a precisão, funciona como a faixa de erro para a precisão
+de um componente como este sensor, assim certificando se a peça tem estabilidade.
+Tendo uma taxa de erro entre 1ºC ou 0.5ºC a mais ou menos.(como dito na precisão)
+
+
+ 
